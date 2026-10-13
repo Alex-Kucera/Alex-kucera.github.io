@@ -28,7 +28,7 @@ I teach [subjects or courses] at [institution]. My teaching emphasizes [your app
 
 ## Beyond academia
 
-I also work on [brief description of your side project]. Read more on the [side project page](side-project.html).
+I also work on [brief description of your side project]. Read more on the [side project page](extras.html).
 
 **Contact:** [Your professional email address]  
 **Office:** [Building and room, optional]  
