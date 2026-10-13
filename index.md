@@ -23,11 +23,11 @@ See my [research page](research.html) for papers and work in progress.
 
 ## Teaching
 
-I teach [subjects or courses] at [institution]. My teaching emphasizes [your approach—for example, connecting economic models with evidence and policy questions]. Course information is on my [teaching page](teaching.html).
+I have instructed introductory courses at both UIC and MSU. My teaching emphasizes understanding the core concepts economists use to build economic theory. Teaching information is on my [teaching page](teaching.html).
 
-## Beyond academia
+## Extras
 
-I also work on [brief description of your side project]. Read more on the [side project page](extras.html).
+I have spent lots of time during projects working on some things that I hoped would make a paper but...do not. They interested me at the time and hopefully interest you too! Take a look at my [Extras page](extras.html).
 
 **Contact:** [kuceraa1@msu.edu]  
 **Office:** [Building and room, optional]  
