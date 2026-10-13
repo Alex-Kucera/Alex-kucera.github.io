@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Side Project](extras.html)
+[Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Extras](extras.html)
 
 # [Your Name]
 
