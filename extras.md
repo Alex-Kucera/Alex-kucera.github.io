@@ -27,6 +27,5 @@ title: Side Project
 
 [Open the app in a new tab](https://alexkucera.shinyapps.io/rolling_app_hosting/))
 
-[Add the project’s real website, repository, newsletter, or contact information here when available.]
 
 *This is an independent project. Views expressed through it are my own and do not necessarily represent those of my institution.*
