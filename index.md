@@ -4,8 +4,6 @@ title: Home
 
 [Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Extras](extras.html)
 
-# `Alex Kucera`
-
 **Economics PhD Student · Michigan State University**
 
 I am a PhD student working on the economics of crime. My research examines illicit drug markets, using data from wastewater monitoring programs. I am particularly interested in how economic theory can be used to explain behavior in these markets.
