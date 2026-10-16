@@ -2,13 +2,13 @@
 title: Teaching
 ---
 
-[Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Side Project](side-project.html)
+[Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Exrtas](extras.html)
 
 # Teaching
 
 I teach economics with an emphasis on clear economic reasoning, careful use of evidence, and the ability to connect analytical tools to questions students care about. My courses aim to give students practice evaluating arguments—not only learning results.
 
-## Current courses
+## Instructor
 
 ### [Course title and number] — [Term and year]
 
@@ -18,7 +18,7 @@ I teach economics with an emphasis on clear economic reasoning, careful use of e
 
 [Two or three sentences describing the course, its audience, and its main topics.]
 
-## Previous courses
+## Teaching Assistant
 
 - **[Course title]**, [institution], [terms taught]
 - **[Course title]**, [institution], [terms taught]
