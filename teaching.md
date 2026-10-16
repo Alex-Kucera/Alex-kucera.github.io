@@ -2,7 +2,7 @@
 title: Teaching
 ---
 
-[Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Exrtas](extras.html)
+[Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Extras](extras.html)
 
 # Teaching
 
