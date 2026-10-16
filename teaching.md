@@ -8,16 +8,6 @@ title: Teaching
 
 I teach economics with an emphasis on clear economic reasoning, careful use of evidence, and the ability to connect analytical tools to questions students care about. My courses aim to give students practice evaluating arguments—not only learning results.
 
-## Michigan State University
-
-### [Principles of Macroeconomics] — [Summer 2025]
-
-[Two or three sentences describing the course, its audience, and its main topics.]
-
-### [Course title and number] — [Term and year]
-
-[Two or three sentences describing the course, its audience, and its main topics.]
-
 ## Instructor
 
 - **[Principles of Macroeconomics]**, [Michigan State University], [Summer 2025]
