@@ -11,15 +11,15 @@ My research focuses broadly on the economic of crime. These projects can be spli
 ## Working papers
 
 **[Illicit Drug Substitution and Crime Dynamics: Evidence from the Taliban's Narcotics Ban]**   
-[I look at the fallout of the Taliban's ban on opium cultivation in Afghanistan. I connect this international shock to retail markets by utilizing consumption data from a wastewater program in Australia. I show that herion is an inelastic good and document some substitution into other drugs. I also show evidence that the price shock following the ban increasing the rate of economically motivated crime in cities with higher pre-shock heroin consumption.]
+I look at the fallout of the Taliban's ban on opium cultivation in Afghanistan. I connect this international shock to retail markets by utilizing consumption data from a wastewater program in Australia. I show that herion is an inelastic good and document some substitution into other drugs. I also show evidence that the price shock following the ban increasing the rate of economically motivated crime in cities with higher pre-shock heroin consumption.
 
 **[The Post-Fentanyl Urbanization of the Opioid Epidemic]**  
-With [Zach Porreca and Adam Scavette]. *[Revise and resubmit at the Journal of Regional Science]*
-[We document how the introduction of fentanyl into the drug supply has shifted the geographic concentration of overdoses towards more urban locations.]
+With [Zach Porreca](https://zachporreca.github.io/) and [Adam Scavette](https://adamscavette.github.io/). *[Revise and resubmit at the Journal of Regional Science]*
+We document how the introduction of fentanyl into the drug supply has shifted the geographic concentration of overdoses towards more urban locations.
 
 **[Using Seizures and Wastewater Data to Infer Cocaine Flows in Europe]**  
-With [Siddharth Chandra].
-[We develop new methods to infer trafficking connections in Europe's cocaine market using data from seizures and wastewater consumption data.]
+With [Siddharth Chandra](https://chandr45.wixsite.com/siddharth-chandra).
+We develop new methods to infer trafficking connections in Europe's cocaine market using data from seizures and wastewater consumption data.
 
 ## Work in progress
 
@@ -27,7 +27,3 @@ With [Siddharth Chandra].
 - **[Illicit Drug Networks in the USA]:** [Using rich price data on illicit drug markets we create inferred network for drug trafficking in the United States]
 - **[Gravity models and the Drug Trade]:** [We use geographic, economic, and demographic data to explain why certain cities are connected in the drug trade.]
 
-
-## Research materials
-
-[Add links to data, code, presentations, or a complete CV when you are ready to share them.]
