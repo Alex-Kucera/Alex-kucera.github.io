@@ -23,7 +23,7 @@ We develop new methods to infer trafficking connections in Europe's cocaine mark
 
 ## Works in progress
 
-- **[Illicit Markets and the Laffer Curve]:** I investigate how tax policy can induce the expansion of illicit markets.
-- **[Illicit Drug Networks in the USA]:** Using rich price data on illicit drug markets we create inferred network for drug trafficking in the United States
-- **[Gravity models and the Drug Trade]:** We use geographic, economic, and demographic data to explain why certain cities are connected in the drug trade.
+- **Illicit Markets and the Laffer Curve:** I investigate how tax policy can induce the expansion of illicit markets.
+- **Illicit Drug Networks in the United States:** Using rich price data on illicit drug markets we create inferred network for drug trafficking in the United States
+- **Gravity Models and the Drug Trade:** We use geographic, economic, and demographic data to explain why certain cities are connected in the drug trade.
 
