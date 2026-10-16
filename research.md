@@ -6,14 +6,7 @@ title: Research
 
 # Research
 
-My research focuses broadly on the economic of crime. These projects can be split into research that focus on (inter)national illicit drug markets, and factors that impact local crime. Across my projects, I ask how can economic theory explain behaviors in these settings and draw on [data, theory, experiments, or other methods] to understand [the contribution or real-world relevance].
-
-## Publications
-
-**[Paper title]**  
-With [coauthors, if any]. *[Journal]*, [year].  
-[Two sentences stating the question, main finding, and contribution.]  
-[Add links to the paper, replication materials, or coverage if available.]
+My research focuses broadly on the economic of crime. These projects can be split into research that focus on (inter)national illicit drug markets, and factors that impact local crime. Across my projects, I ask how can economic theory explain behaviors in these settings and draw on both new and old data sources to understand how .
 
 ## Working papers
 
