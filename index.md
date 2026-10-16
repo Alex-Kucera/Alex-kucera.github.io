@@ -4,7 +4,7 @@ title: Home
 
 [Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Extras](extras.html)
 
-# Alex Kucera
+# `Alex Kucera`
 
 **Economics PhD Student · Michigan State University**
 
