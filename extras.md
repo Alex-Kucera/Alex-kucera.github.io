@@ -4,19 +4,28 @@ title: Side Project
 
 [Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Extras](extras.html)
 
-# [Side project name]
+# [Evolution of Cocaine Networks in the U.S. over time]
 
-**[A one-line description of what the project does or explores.]**
+**[Using price correlations, connections between cities are inferred. Connections in the app represent a sample of the correlations calculated over a minimum of 10 years]**
 
-[Write a short paragraph explaining what motivated the project, who it is for, and how it relates—or does not relate—to your academic work.]
+[LEO investigations into drug trafficking are often costly to run and dangerous for in-person intelligence gathering. Using rich price data, connections may be inferred by comparing price movements between cities over time. These are inferred, not confirmed, connection that can suggest changing networks over time. You can use the national network or city specific networks to see how connections change.]
 
 ## What I'm working on
 
-- **[Component or activity]:** [What it involves.]
-- **[Component or activity]:** [What it involves.]
-- **[Next step]:** [What you hope to do next.]
+- **[Next step]:** [Adding geographic and infrastructural details to the map to provide increase insight on why certain cities may be more important than others in a network. ]
 
 ## Explore the project
+
+<iframe
+  src="(https://alexkucera.shinyapps.io/rolling_app_hosting/)"
+  title="Interactive trafficking network app"
+  width="100%"
+  height="700"
+  style="border: 1px solid #ddd;"
+  loading="lazy">
+</iframe>
+
+[Open the app in a new tab](https://alexkucera.shinyapps.io/rolling_app_hosting/))
 
 [Add the project’s real website, repository, newsletter, or contact information here when available.]
 
