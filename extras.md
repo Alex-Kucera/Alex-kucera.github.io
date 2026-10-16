@@ -2,7 +2,7 @@
 title: Side Project
 ---
 
-[Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Side Project](side-project.html)
+[Home](index.html) · [Research](research.html) · [Teaching](teaching.html) · [Extras](extras.html)
 
 # [Side project name]
 
