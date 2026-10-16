@@ -17,7 +17,7 @@ title: Side Project
 ## Explore the project
 
 <iframe
-  src="(https://alexkucera.shinyapps.io/rolling_app_hosting/)"
+  src="https://alexkucera.shinyapps.io/rolling_app_hosting/"
   title="Interactive trafficking network app"
   width="100%"
   height="700"
@@ -25,7 +25,7 @@ title: Side Project
   loading="lazy">
 </iframe>
 
-[Open the app in a new tab](https://alexkucera.shinyapps.io/rolling_app_hosting/))
+[Open the app in a new tab](https://alexkucera.shinyapps.io/rolling_app_hosting/)
 
 
 *This is an independent project. Views expressed through it are my own and do not necessarily represent those of my institution.*
