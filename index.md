@@ -27,6 +27,6 @@ I have instructed introductory courses at both UIC and MSU. My teaching emphasiz
 
 I have spent lots of time during projects working on some things that I hoped would make a paper but...do not. They interested me at the time and hopefully interest you too! Take a look at my [Extras page](extras.html).
 
-**Contact:** [kuceraa1@msu.edu]  
+**Contact:** [kuceraa1@msu.edu]
 **Office:** [Building and room, optional]  
 **CV:** [Add a link to your CV when available]
